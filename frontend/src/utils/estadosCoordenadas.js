@@ -1,0 +1,157 @@
+export default [{
+    id: 12,
+    sigla: "AC",
+    nome: "Acre",
+    latitude: -8.77,
+    longitude: -70.55
+}, {
+    id: 27,
+    sigla: "AL",
+    nome: "Alagoas",
+    latitude: -9.62,
+    longitude: -36.82
+}, {
+    id: 16,
+    sigla: "AP",
+    nome: "Amapá",
+    latitude: 1.41,
+    longitude: -51.77
+}, {
+    id: 13,
+    sigla: "AM",
+    nome: "Amazonas",
+    latitude: -3.47,
+    longitude: -65.10
+}, {
+    id: 29,
+    sigla: "BA",
+    nome: "Bahia",
+    latitude: -13.29,
+    longitude: -41.71
+}, {
+    id: 23,
+    sigla: "CE",
+    nome: "Ceará",
+    latitude: -5.20,
+    longitude: -39.53
+}, {
+    id: 53,
+    sigla: "DF",
+    nome: "Distrito Federal",
+    latitude: -15.83,
+    longitude: -47.86
+}, {
+    id: 32,
+    sigla: "ES",
+    nome: "Espírito Santo",
+    latitude: -19.19,
+    longitude: -40.34
+}, {
+    id: 52,
+    sigla: "GO",
+    nome: "Goiás",
+    latitude: -15.98,
+    longitude: -49.86
+}, {
+    id: 21,
+    sigla: "MA",
+    nome: "Maranhão",
+    latitude: -5.42,
+    longitude: -45.44
+}, {
+    id: 51,
+    sigla: "MT",
+    nome: "Mato Grosso",
+    latitude: -12.64,
+    longitude: -55.42
+}, {
+    id: 50,
+    sigla: "MS",
+    nome: "Mato Grosso do Sul",
+    latitude: -20.51,
+    longitude: -54.54
+}, {
+    id: 31,
+    sigla: "MG",
+    nome: "Minas Gerais",
+    latitude: -18.10,
+    longitude: -44.38
+}, {
+    id: 15,
+    sigla: "PA",
+    nome: "Pará",
+    latitude: -3.79,
+    longitude: -52.48
+}, {
+    id: 25,
+    sigla: "PB",
+    nome: "Paraíba",
+    latitude: -7.28,
+    longitude: -36.72
+}, {
+    id: 41,
+    sigla: "PR",
+    nome: "Paraná",
+    latitude: -24.89,
+    longitude: -51.55
+}, {
+    id: 26,
+    sigla: "PE",
+    nome: "Pernambuco",
+    latitude: -8.38,
+    longitude: -37.86
+}, {
+    id: 22,
+    sigla: "PI",
+    nome: "Piauí",
+    latitude: -6.60,
+    longitude: -42.28
+}, {
+    id: 33,
+    sigla: "RJ",
+    nome: "Rio de Janeiro",
+    latitude: -22.25,
+    longitude: -42.66
+}, {
+    id: 24,
+    sigla: "RN",
+    nome: "Rio Grande do Norte",
+    latitude: -5.81,
+    longitude: -36.59
+}, {
+    id: 11,
+    sigla: "RO",
+    nome: "Rondônia",
+    latitude: -10.83,
+    longitude: -63.34
+}, {
+    id: 14,
+    sigla: "RR",
+    nome: "Roraima",
+    latitude: 1.99,
+    longitude: -61.33
+}, {
+    id: 42,
+    sigla: "SC",
+    nome: "Santa Catarina",
+    latitude: -27.45,
+    longitude: -50.95
+}, {
+    id: 35,
+    sigla: "SP",
+    nome: "São Paulo",
+    latitude: -22.19,
+    longitude: -48.79
+}, {
+    id: 28,
+    sigla: "SE",
+    nome: "Sergipe",
+    latitude: -10.57,
+    longitude: -37.45
+}, {
+    id: 17,
+    sigla: "TO",
+    nome: "Tocantins",
+    latitude: -9.46,
+    longitude: -48.26
+}];
