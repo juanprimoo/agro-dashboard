@@ -8,6 +8,18 @@ Dashboard interativo de produção agrícola no Brasil, com mapa e gráficos por
 - Backend: FastAPI  
 - Containerização: Docker, Docker Compose
 
+## Fontes de Dados
+
+- **SIDRA IBGE:** API oficial do Instituto Brasileiro de Geografia e Estatística (IBGE) para acesso a dados estatísticos sobre agricultura, habitação, inflação, indústrias e muito mais.  
+  - Acesso direto: [https://apisidra.ibge.gov.br/](https://apisidra.ibge.gov.br/)
+
+- **Sidrapy:** Biblioteca Python que fornece uma interface simples para acessar a API SIDRA.  
+  - Documentação: [https://sidrapy.readthedocs.io/pt-br/latest/](https://sidrapy.readthedocs.io/pt-br/latest/)
+
+- **SIDRA Tabelas PAM:** Tabelas específicas da Produção Agrícola Municipal, incluindo áreas plantadas, colhidas e valores de produção das lavouras permanentes.  
+  - Acesso: [https://sidra.ibge.gov.br/pesquisa/pam/tabelas](https://sidra.ibge.gov.br/pesquisa/pam/tabelas)
+
+
 ## Como rodar
 
 1. Clone o repositório:
